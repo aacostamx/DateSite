@@ -1,0 +1,5 @@
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\DateSite\EntidadDS\bin\Debug\EntidadDS.dll
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\DateSite\EntidadDS\bin\Debug\EntidadDS.pdb
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\DateSite\EntidadDS\obj\Debug\EntidadDS.csprojResolveAssemblyReference.cache
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\DateSite\EntidadDS\obj\Debug\EntidadDS.dll
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\DateSite\EntidadDS\obj\Debug\EntidadDS.pdb

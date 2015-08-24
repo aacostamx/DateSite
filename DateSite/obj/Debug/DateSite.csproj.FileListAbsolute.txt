@@ -1,0 +1,6 @@
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\DateSite\DateSite\bin\Debug\DateSite.dll.config
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\DateSite\DateSite\bin\Debug\DateSite.dll
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\DateSite\DateSite\bin\Debug\DateSite.pdb
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\DateSite\DateSite\obj\Debug\DateSite.csprojResolveAssemblyReference.cache
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\DateSite\DateSite\obj\Debug\DateSite.dll
+C:\Users\Antonio\Documents\Visual Studio 2015\Projects\DateSite\DateSite\obj\Debug\DateSite.pdb
